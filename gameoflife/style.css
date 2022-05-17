@@ -1,0 +1,40 @@
+body{
+    padding: 20px;
+    background-color: teal;
+}
+#gridContainer{
+    padding-bottom: 20px;
+}
+table{
+    background-color: white;
+    border-spacing: 0;
+}
+td{
+    /*border: 1px solid whitesmoke;*/
+    width: 10px;
+    height: 10px;
+}
+.alive{
+    background-color: black;
+}
+#start{
+    padding: 10px;
+    width: 200px;
+    height: 40px;
+    border: 1px solid black;
+    background-color: aqua;
+}
+#reset{
+    padding: 10px;
+    width: 200px;
+    height: 40px;
+    border: 1px solid black;
+    background-color: aqua;
+}
+#random{
+    padding: 10px;
+    width: 200px;
+    height: 40px;
+    border: 1px solid black;
+    background-color: aqua;
+}
